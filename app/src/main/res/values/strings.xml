@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">HabitTrackerApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_todo_list">ToDoList</string>
+    <string name="title_education">Education</string>
+    <string name="title_profile">Profile</string>
+    <string name="tv_username">Muhammad Irzan</string>
+    <string name="tv_email">irzanmuhamad7@gmail.com</string>
+    <string name="tv_welcome_title">Selamat datang di HabitTracker</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="tv_welcome_subtitle">Bentuk kebiasaan baru dan ubah hidupmu bersama Habit Tracker</string>
+    <string name="tv_login_title">Selamat Datang di Halaman Login</string>
+    <string name="tv_login_subtitle">Silahkan masukkan data diri anda</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="tv_signup_title">Lengkapi data diri anda</string>
+    <string name="username">Username</string>
+    <string name="notify_channel_name">Task Reminder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="profile_section">Profile section</string>
+    <string name="profile">Profile</string>
+    <string name="title">Title</string>
+    <string name="pref_notify_summary">Daily reminder for nearest active task.</string>
+    <string name="pref_key_notify">key_notifications</string>
+    <string name="notification">Notification</string>
+    <string name="reminder">Reminder</string>
+    <string name="due_date">Due Date</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="description_hint">Description Hint</string>
+    <string name="title_hint">Title</string>
+    <string name="reminder_header">Reminder</string>
+    <string name="settings">Settings</string>
+    <string name="filter">Filter</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_marked_complete">Task marked complete</string>
+    <string name="task_marked_active">Task marked active</string>
+    <string name="all">All</string>
+    <string name="active">Active</string>
+    <string name="completed">Completed</string>
+</resources>
